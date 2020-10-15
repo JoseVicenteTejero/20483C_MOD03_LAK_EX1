@@ -5,3 +5,5 @@ RESUMEN
  Adding Navigation Logic to the Grades Prototype Application.
  First, examine the window and views in the application.
  After that, Define the LogonSuccess event and add dummy code for the Logon_Click event, Add code to display the Log On view, Add code to determine the type of user, Handle the Student_Click event and Build and test the application.
+PROBLEMAS
+La aplicación compila sin errores, pero solo se muestra la pantalla de logon, tecleo los datos y no pasa de página. 
